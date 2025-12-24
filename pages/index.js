@@ -1,4 +1,9 @@
 function Home() {
-  return <h1>Antonia, nos vamos conseguir ${`:)`}</h1>;
+  return (
+    <main>
+      <h1>Fear he who fears nothing</h1>
+    </main>
+  );
 }
+
 export default Home;
